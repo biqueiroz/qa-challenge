@@ -300,8 +300,10 @@ Se possível, tendo em vista que só tenho acesso ao ambiente produtivo, executa
 # Evidências
 
 As evidências de execução encontram-se disponíveis na pasta:
-
 * /cypress/videos/
+
+Também é possível executar os testes e obter o relatório de execução via workflow nas Actions do GitHub, pelo caminho:
+*Actions - Workflow de testes - Run workflow*
 
 ---
 
